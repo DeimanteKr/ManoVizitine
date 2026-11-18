@@ -2,9 +2,10 @@
     <string name="app_name">My Business Card</string>
     <string name="profile_name">Deimantė Krištaponytė</string>
     <string name="profile_email">deimante.kristaponyte@gmail.com</string>
-    <string name="profile_description">Student · Aspiring programmer</string>
-    <string name="photo_placeholder">Your photo will appear here</string>
+    <string name="profile_description">Video Editor · Multimedia and Computer Design</string>
     <string name="profile_photo_description">My profile photo</string>
+    <string name="take_photo">Take a selfie</string>
+    <string name="no_camera_app">No camera app found.</string>
 
     <string name="show_cv">My CV</string>
     <string name="show_portfolio">My portfolio</string>
@@ -12,13 +13,23 @@
     <string name="back">Back</string>
 
     <string name="cv_title">My CV</string>
-    <string name="cv_content">Education:\nEnter your educational institution and study programme.\n\nSkills:\nKotlin, Android Studio, teamwork.\n\nExperience:\nEnter your work or project experience.</string>
+    <string name="cv_content">Education:\nVilnius Gediminas Technical University (VGTU) – Multimedia and Computer Design\n(4th year, graduating in 2027)\n\nExperience:\nVideo Editor, self-employed\n(June 2026 – present)\n• Creating TikTok videos\n• Editing raw footage for YouTube videos\n\nSoftware:\nAdobe Premiere Pro\n\nLanguages:\nLithuanian – native\nEnglish – B2</string>
 
     <string name="portfolio_title">My portfolio</string>
-    <string name="portfolio_content">1. Business card app\nAn Android app built with Kotlin and Jetpack Compose.\n\n2. Another project\nMore projects will be added here.</string>
+    <string name="portfolio_content">Videos and projects I have edited. Images are loaded from the internet.</string>
+
+    <string name="portfolio1_title">1. YouTube video editing</string>
+    <string name="portfolio1_description">Editing long-form YouTube videos from raw footage: cutting, transitions, audio clean-up and subtitles.</string>
+    <string name="portfolio2_title">2. Product promo videos</string>
+    <string name="portfolio2_description">Short promotional videos: dynamic editing, on-screen text and music.</string>
+    <string name="portfolio3_title">3. University projects (VGTU)</string>
+    <string name="portfolio3_description">Video editing projects created during my Multimedia and Computer Design studies.</string>
+    <string name="portfolio4_title">4. TikTok videos</string>
+    <string name="portfolio4_description">Short vertical videos for TikTok: fast pace, subtitles, effects and music.</string>
+    <string name="image_load_failed">Could not load the image. Check your internet connection.</string>
+    <string name="retry">Try again</string>
 
     <string name="contact_title">Contact me</string>
-    <string name="contact_placeholder">A contact form will appear here.</string>
     <string name="contact_details_label">Your email or phone number</string>
     <string name="contact_question_label">Your question</string>
     <string name="contact_send">Prepare email</string>

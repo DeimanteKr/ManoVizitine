@@ -14,8 +14,7 @@
     <string name="app_name">Mano vizitinė</string>
     <string name="profile_name">Deimantė Krištaponytė</string>
     <string name="profile_email">deimante.kristaponyte@gmail.com</string>
-    <string name="profile_description">Studentė · Būsima programuotoja</string>
-    <string name="photo_placeholder">Čia bus tavo nuotrauka</string>
+    <string name="profile_description">Video Editor · Multimedija ir kompiuterinis dizainas</string>
 
     <string name="show_cv">Mano CV</string>
     <string name="show_portfolio">Mano portfolio</string>
@@ -23,15 +22,27 @@
     <string name="back">Grįžti</string>
 
     <string name="cv_title">Mano CV</string>
-    <string name="cv_content">Išsilavinimas:\nĮrašyk savo mokymo įstaigą ir studijų programą.\n\nGebėjimai:\nKotlin, Android Studio, komandinis darbas.\n\nPatirtis:\nĮrašyk savo darbo ar projektų patirtį.</string>
+    <string name="cv_content">Išsilavinimas:\nVGTU – Multimedija ir kompiuterinis dizainas\n(4 kursas, baigsiu 2027 m.)\n\nPatirtis:\nVideo Editor, individuali veikla\n(2026 m. birželis – dabar)\n• TikTok vaizdo įrašų kūrimas\n• YouTube vaizdo įrašų montavimas iš neapdorotos (raw) medžiagos\n\nProgramos:\nAdobe Premiere Pro\n\nKalbos:\nLietuvių – gimtoji\nAnglų – B2</string>
 
     <string name="portfolio_title">Mano portfolio</string>
-    <string name="portfolio_content">1. Vizitinės kortelės programėlė\nAndroid programėlė, kuriama naudojant Kotlin ir Jetpack Compose.\n\n2. Kitas projektas\nČia vėliau pridėsime daugiau projektų.</string>
+    <string name="portfolio_content">Mano sumontuoti vaizdo įrašai ir projektai. Vaizdai kraunami iš interneto.</string>
 
     <string name="contact_title">Susisiekti</string>
-    <string name="contact_placeholder">Kitame etape čia pridėsime kontaktų formą.</string>
     <string name="profile_photo_description">Mano portretinė nuotrauka</string>
+    <string name="take_photo">Nufotografuoti save</string>
+    <string name="no_camera_app">Nerasta kameros programėlė.</string>
 
-    <string name="language_lt">Lietuvių</string>
-    <string name="language_en">English</string>
+    <string name="portfolio1_title">1. YouTube vaizdo įrašų montažas</string>
+    <string name="portfolio1_description">Ilgų YouTube vaizdo įrašų montavimas iš neapdorotos (raw) medžiagos: kirpimas, perėjimai, garso sutvarkymas ir subtitrai.</string>
+    <string name="portfolio2_title">2. Produktų pristatymo vaizdo įrašai</string>
+    <string name="portfolio2_description">Trumpi reklaminiai vaizdo įrašai: dinamiškas montažas, tekstas ekrane ir muzika.</string>
+    <string name="portfolio3_title">3. Studijų projektai (VGTU)</string>
+    <string name="portfolio3_description">Multimedijos ir kompiuterinio dizaino studijų metu sukurti vaizdo montavimo darbai.</string>
+    <string name="portfolio4_title">4. TikTok vaizdo įrašai</string>
+    <string name="portfolio4_description">Vertikalūs trumpi vaizdo įrašai TikTok platformai: greitas tempas, subtitrai, efektai ir muzika.</string>
+    <string name="image_load_failed">Nepavyko užkrauti vaizdo. Patikrink interneto ryšį.</string>
+    <string name="retry">Bandyti dar kartą</string>
+
+    <string name="language_lt" translatable="false">Lietuvių</string>
+    <string name="language_en" translatable="false">English</string>
 </resources>
