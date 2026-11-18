@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Programėlės palaikomos kalbos. Android 13+ jas rodo ir telefono nustatymuose
+     (Nustatymai → Programos → Mano vizitinė → Kalba) -->
+<locale-config xmlns:android="http://schemas.android.com/apk/res/android">
+    <locale android:name="lt" />
+    <locale android:name="en" />
+</locale-config>
