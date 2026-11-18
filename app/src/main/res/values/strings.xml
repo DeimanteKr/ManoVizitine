@@ -1,0 +1,37 @@
+<resources>
+    <string name="contact_details_label">Tavo el. paštas arba telefonas</string>
+    <string name="contact_question_label">Tavo klausimas</string>
+    <string name="contact_send">Paruošti laišką</string>
+    <string name="contact_email_subject">Klausimas iš vizitinės kortelės programėlės</string>
+    <string name="contact_email_body">Siuntėjo kontaktai: %1$s\n\nKlausimas:\n%2$s</string>
+    <string name="contact_no_email_app">Nerasta el. pašto programėlė. Įdiek arba sukonfigūruok ją ir bandyk dar kartą.</string>
+
+    <string name="new_entry_label">Naujas įrašas</string>
+    <string name="save_entry">Išsaugoti įrašą</string>
+    <string name="added_entries_title">Mano pridėti įrašai</string>
+    <string name="no_added_entries">Papildomų įrašų dar nėra.</string>
+
+    <string name="app_name">Mano vizitinė</string>
+    <string name="profile_name">Deimantė Krištaponytė</string>
+    <string name="profile_email">deimante.kristaponyte@gmail.com</string>
+    <string name="profile_description">Studentė · Būsima programuotoja</string>
+    <string name="photo_placeholder">Čia bus tavo nuotrauka</string>
+
+    <string name="show_cv">Mano CV</string>
+    <string name="show_portfolio">Mano portfolio</string>
+    <string name="contact_me">Susisiekti su manimi</string>
+    <string name="back">Grįžti</string>
+
+    <string name="cv_title">Mano CV</string>
+    <string name="cv_content">Išsilavinimas:\nĮrašyk savo mokymo įstaigą ir studijų programą.\n\nGebėjimai:\nKotlin, Android Studio, komandinis darbas.\n\nPatirtis:\nĮrašyk savo darbo ar projektų patirtį.</string>
+
+    <string name="portfolio_title">Mano portfolio</string>
+    <string name="portfolio_content">1. Vizitinės kortelės programėlė\nAndroid programėlė, kuriama naudojant Kotlin ir Jetpack Compose.\n\n2. Kitas projektas\nČia vėliau pridėsime daugiau projektų.</string>
+
+    <string name="contact_title">Susisiekti</string>
+    <string name="contact_placeholder">Kitame etape čia pridėsime kontaktų formą.</string>
+    <string name="profile_photo_description">Mano portretinė nuotrauka</string>
+
+    <string name="language_lt">Lietuvių</string>
+    <string name="language_en">English</string>
+</resources>

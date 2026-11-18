@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Business Card</string>
+    <string name="profile_name">Deimantė Krištaponytė</string>
+    <string name="profile_email">deimante.kristaponyte@gmail.com</string>
+    <string name="profile_description">Student · Aspiring programmer</string>
+    <string name="photo_placeholder">Your photo will appear here</string>
+    <string name="profile_photo_description">My profile photo</string>
+
+    <string name="show_cv">My CV</string>
+    <string name="show_portfolio">My portfolio</string>
+    <string name="contact_me">Contact me</string>
+    <string name="back">Back</string>
+
+    <string name="cv_title">My CV</string>
+    <string name="cv_content">Education:\nEnter your educational institution and study programme.\n\nSkills:\nKotlin, Android Studio, teamwork.\n\nExperience:\nEnter your work or project experience.</string>
+
+    <string name="portfolio_title">My portfolio</string>
+    <string name="portfolio_content">1. Business card app\nAn Android app built with Kotlin and Jetpack Compose.\n\n2. Another project\nMore projects will be added here.</string>
+
+    <string name="contact_title">Contact me</string>
+    <string name="contact_placeholder">A contact form will appear here.</string>
+    <string name="contact_details_label">Your email or phone number</string>
+    <string name="contact_question_label">Your question</string>
+    <string name="contact_send">Prepare email</string>
+    <string name="contact_email_subject">Question from the business card app</string>
+    <string name="contact_email_body">Sender contact details: %1$s\n\nQuestion:\n%2$s</string>
+    <string name="contact_no_email_app">No email app found. Install or configure one and try again.</string>
+
+    <string name="new_entry_label">New entry</string>
+    <string name="save_entry">Save entry</string>
+    <string name="added_entries_title">My added entries</string>
+    <string name="no_added_entries">No additional entries yet.</string>
+</resources>
